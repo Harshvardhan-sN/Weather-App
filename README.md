@@ -1,6 +1,6 @@
 # Weather-App
 
-This project is a basic weather app that provides users with essential weather information such as the current temperature, minimum/maximum temperature, wind speed, sunrise/sunset times, approximate location, and weather conditions (e.g., raining, sunny, cloudy, fog, etc.).
+This project is a basic weather app that provides users with essential weather information such as the current temperature, minimum/maximum temperature, wind speed, sunrise/sunset times, approximate location, and weather conditions (e.g., raining, sunny, cloudy, fog, etc.). The app enhances the user experience by dynamically displaying a photo that corresponds to the current weather condition. Even if the app doesn't have an internet connection, it shows previously loaded data stored in shared preferences.
 
 ### Features:
 
@@ -8,8 +8,9 @@ This project is a basic weather app that provides users with essential weather i
 - Temperature: View the minimum and maximum temperature for the day.
 - Wind speed: Check the speed of the wind in your location.
 - Sunrise/Sunset times: Know when the sun rises and sets in your area.
-- Approximate location: The app utilizes your phone's location to provide the weather details for your current whereabouts.
 - Weather conditions: Find out if it's raining, sunny, cloudy, foggy, or other weather conditions at your location.
+- Weather-themed photos: The app dynamically displays a photo that aligns with the current weather condition, creating an immersive experience for users.
+- Offline mode: If there is no internet connection, the app displays previously loaded weather data from shared preferences, ensuring users can still access the most recent information.
 
 ### Data Source:
 The app fetches weather data using the Open Weather API in conjunction with your device's location service. Please note that the accuracy of the data may vary, and there might be slight discrepancies.
