@@ -22,7 +22,6 @@ The app fetches weather data using the Open Weather API in conjunction with your
   - [Installation](#installation)
 - [Technology](#technology)
 - [Screenshots](#screenshots)
-- [App Preview](#app-preview)
 - [Download](#download)
 
 ## Getting Started
