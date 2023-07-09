@@ -62,8 +62,8 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 ## Screenshots
 
 <div style="display: flex;">
-  <img src="https://github.com/Harshvardhan-sN/Weather-App/blob/master/screenshot/1.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
   <img src="https://github.com/Harshvardhan-sN/Weather-App/blob/master/screenshot/2.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/Weather-App/blob/master/screenshot/1.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
 </div>
 
 
