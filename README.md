@@ -1,6 +1,18 @@
-# GrowMore
+# Weather-App
 
-GrowMore is a project management Android app inspired by Trello. It provides a flexible and intuitive way to manage various types of projects, workflows, and task tracking. With GrowMore, users can create boards, lists, and cards to organize and track their projects according to their own preferences. Additionally, the app allows users to add and assign members to specific tasks, fostering collaboration and efficient project management.
+This project is a basic weather app that provides users with essential weather information such as the current temperature, minimum/maximum temperature, wind speed, sunrise/sunset times, approximate location, and weather conditions (e.g., raining, sunny, cloudy, fog, etc.).
+
+## Features:
+
+- Current weather information: Get real-time updates on the weather conditions.
+- Temperature: View the minimum and maximum temperature for the day.
+- Wind speed: Check the speed of the wind in your location.
+- Sunrise/Sunset times: Know when the sun rises and sets in your area.
+- Approximate location: The app utilizes your phone's location to provide the weather details for your current whereabouts.
+- Weather conditions: Find out if it's raining, sunny, cloudy, foggy, or other weather conditions at your location.
+
+## Data Source:
+The app fetches weather data using the Open Weather API in conjunction with your device's location service. Please note that the accuracy of the data may vary, and there might be slight discrepancies.
 
 ## Table of Contents
 
