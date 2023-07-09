@@ -67,4 +67,4 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 
 
 ## Download
-To start using the app, you can download the APK file: <a href="https://drive.google.com/file/d/1s6xgx_nmLq9MR-F-9rdiO423NQuTA_fJ/view?usp=drive_link" target="_blank">Download APK</a>
+To start using the app, you can download the APK file: <a href="https://github.com/Harshvardhan-sN/Weather-App/raw/master/app/release/app-release.apk" target="_blank">Download APK</a>
